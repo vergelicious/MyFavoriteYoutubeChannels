@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727542344936",
+    "firebase_url": "https://cc17-myfavoritechannels-default-rtdb.firebaseio.com",
+    "project_id": "cc17-myfavoritechannels",
+    "storage_bucket": "cc17-myfavoritechannels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727542344936:android:f6f17d9fde1bd2a8306d5d",
+        "android_client_info": {
+          "package_name": "com.example.myfavoriteyoutubechannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727542344936-co5eo7o8o786enmjapriau6oupqm0ha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hsA_G_qCJOYHcmEJbVnAS10cR1AYqvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727542344936-co5eo7o8o786enmjapriau6oupqm0ha7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
